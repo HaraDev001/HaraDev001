@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Worked as CTO on a US blockchain company;Senior Full-Stack%20%26%20Blockchain%20Engineer;3+%2B%20years%20experiences%20of%20managing%20team;7+%2B%20years%20of%20working%20experiences%20in%20development&width=500&height=45">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Worked as CTO on a US blockchain company;Senior Full-Stack%20%26%20Blockchain%20Engineer;7+%2B%20years%20of%20working%20experiences%20in%20development&width=500&height=45">
   </a>
 </p>
 

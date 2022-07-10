@@ -16,7 +16,7 @@
 
 - 🌱 Frontend : React, Next, Vue, Nuxt, Angular, Jquery, Bootstrap, TailwindCSS
 - 🔭 Backend : NodeJs, CI, Laravel, Django, Express, Loopback, Nestjs
-- 📲 Mobile: Android, Java, Kotlin, iOS, Swift, Objective-C, React Native, Ionic
+- 📲 Mobile: Android, Java, Kotlin, iOS, Swift, Objective-C, React Native
 - 🪟 Windows: WPF, MVVM
 - 🧩 Database : MySQL, PostgreSQL, MongoDB, Firestore, MariaDB, SQLite
 - 🎮 Gaming: Unity 3D, AR, VR
